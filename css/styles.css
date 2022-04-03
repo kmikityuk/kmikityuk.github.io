@@ -41,14 +41,14 @@
   --bs-danger: #dc3545;
   --bs-light: #f8f9fa;
   --bs-dark: #212529;
-  --bs-primary-rgb: 150, 150, 150;  /* mycolor #969696*/
+  --bs-primary-rgb: 55, 55, 55;  /* mycolor #373737*/
   --bs-secondary-rgb: 108, 117, 125;
   --bs-success-rgb: 25, 135, 84;
   --bs-info-rgb: 13, 202, 240;
   --bs-warning-rgb: 255, 193, 7;
   --bs-danger-rgb: 220, 53, 69;
-  --bs-light-rgb: 150, 150, 150; /* mycolor #969696*/
-  --bs-dark-rgb: 140, 14, 30; /* mycolor */
+  --bs-light-rgb: 55, 55, 55; /* mycolor #373737*/
+  --bs-dark-rgb: 55, 55, 55; /* mycolor #373737*/
   --bs-white-rgb: 255, 255, 255;
   --bs-black-rgb: 0, 0, 0;
   --bs-body-rgb: 33, 37, 41;
@@ -3024,13 +3024,13 @@ textarea.form-control-lg {
 
 .btn-primary {
   color: #fff; /* mycolor */
-  background-color: #969696; /* mycolor */
+  background-color: #373737; /* mycolor */
   border-color: #ccc;
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #909090; /* mycolor */
-  border-color: #909090;
+  background-color: #373737; /* mycolor */
+  border-color: #373737;
 }
 .btn-check:focus + .btn-primary, .btn-primary:focus {
   color: #fff;
